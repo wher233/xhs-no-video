@@ -2,4 +2,4 @@ name: 小红书屏蔽短视频
 desc: 本覆写只能使短视频加载超时，主页信息流中的视频推荐需要手动点击"不感兴趣"
 
 rules:
-	- DOMAIN-KEYWORD,sns-video,REJECT
+  - DOMAIN-KEYWORD,sns-video,REJECT
